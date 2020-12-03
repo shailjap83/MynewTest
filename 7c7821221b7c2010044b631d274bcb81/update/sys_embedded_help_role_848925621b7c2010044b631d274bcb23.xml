@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_snc_abctest.abcrole" name="x_snc_abctest.abcrole">a979a9621b7c2010044b631d274bcbcd</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>shailja.panthri@snc</sys_created_by>
+        <sys_created_on>2020-12-03 12:13:36</sys_created_on>
+        <sys_id>848925621b7c2010044b631d274bcb23</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>a979a9621b7c2010044b631d274bcbcd</sys_name>
+        <sys_package display_value="ABCtest" source="x_snc_abctest">7c7821221b7c2010044b631d274bcb81</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ABCtest">7c7821221b7c2010044b631d274bcb81</sys_scope>
+        <sys_update_name>sys_embedded_help_role_848925621b7c2010044b631d274bcb23</sys_update_name>
+        <sys_updated_by>shailja.panthri@snc</sys_updated_by>
+        <sys_updated_on>2020-12-03 12:13:36</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
