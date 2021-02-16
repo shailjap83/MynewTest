@@ -47,21 +47,21 @@
         <reference_qual/>
         <reference_qual_condition/>
         <reference_type/>
-        <sizeclass/>
+        <sizeclass>0</sizeclass>
         <spell_check>false</spell_check>
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>shailja.panthri@snc</sys_created_by>
         <sys_created_on>2020-12-03 12:10:05</sys_created_on>
         <sys_id>d8b8e5221b7c2010044b631d274bcb8d</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>x_snc_abctest_abctable</sys_name>
         <sys_package display_value="ABCtest" source="x_snc_abctest">7c7821221b7c2010044b631d274bcb81</sys_package>
         <sys_policy/>
         <sys_scope display_value="ABCtest">7c7821221b7c2010044b631d274bcb81</sys_scope>
         <sys_update_name>sys_dictionary_x_snc_abctest_abctable_null</sys_update_name>
-        <sys_updated_by>shailja.panthri@snc</sys_updated_by>
-        <sys_updated_on>2020-12-03 12:10:05</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2020-12-04 11:25:19</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
